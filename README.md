@@ -27,8 +27,18 @@ This is a simple Java console-based game where the computer generates a random n
 NumberGuessingGame/
 ├── src/
 │   └── NumberGuessingGame.java
+├── screenshots/
+│   ├── GameHomePage.png
+│   └── GameResult.png
 └── README.md
 ```
+## Game Screenshots
+
+### Game Home Menu
+![Home Menu](screenshots/GameHomePage.png)
+
+### Game Result
+![Game Result](screenshots/GameResult.png)
 
 ## Internship Details
 - **Organization:** Auspify Technologies
