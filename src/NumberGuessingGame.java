@@ -16,6 +16,11 @@ public class NumberGuessingGame {
         System.out.println("\t Select a number between 1 and 100.");
         System.out.println("\n\t Try to guess it!!!");
 
+        System.out.print("\nEnter your guess: ");
+        int guess= input.nextInt();
+
+        System.out.println("Your guess is: "+guess);
+
         input.close();
     }
 }
